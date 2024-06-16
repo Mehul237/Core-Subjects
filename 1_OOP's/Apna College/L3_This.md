@@ -1,5 +1,6 @@
 
 ## This Pointer 
+- To show the object properties
 
 <hr>
 
