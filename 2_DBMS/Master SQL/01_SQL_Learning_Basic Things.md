@@ -100,10 +100,31 @@
 
 <hr>
 
-![Screenshot 2024-07-08 042720](https://github.com/Mehul237/Core-Subjects/assets/117193057/6d4f2a34-ac4c-4c90-b5c2-1df26a71ba58)
+![Screenshot 2024-07-08 174550](https://github.com/Mehul237/Core-Subjects/assets/117193057/8fa2c5e8-aa8f-4a6a-a866-881a13f960fd)
+
+![Screenshot 2024-07-08 174505](https://github.com/Mehul237/Core-Subjects/assets/117193057/7851fd0b-e73f-49d8-afc3-622bea92fd45)
+
+![Screenshot 2024-07-08 175655](https://github.com/Mehul237/Core-Subjects/assets/117193057/bae6427f-9883-4d6b-af1c-600df833d12a)
+
 
 <hr>
 <br>
 
 
+### 5. DDL -- CONSTRAINTS
 
+<hr>
+
+### 1. Primary Key
+- PK is not null, unique and only one per table
+- PK should be INT because fast, increment and searchable efficiently (Good Practice)
+
+![Screenshot 2024-07-08 181935](https://github.com/Mehul237/Core-Subjects/assets/117193057/d0f438c9-be39-4f26-a55b-5d7ebeeb2fea)
+
+    Syntax 
+
+![Screenshot 2024-07-08 182454](https://github.com/Mehul237/Core-Subjects/assets/117193057/d88c2127-5540-4b27-9a10-4cc135bc5757)
+
+
+<hr>
+<br>
