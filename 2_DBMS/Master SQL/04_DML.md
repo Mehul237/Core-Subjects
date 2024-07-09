@@ -62,6 +62,6 @@
 - In case of replace, If data already present then replace. If data is not present then insert
 - In case of Update, If data already present then update work and if data is not present then update don't do anything
 
-
+![Screenshot 2024-07-10 001721](https://github.com/Mehul237/Core-Subjects/assets/117193057/fe42b0f7-44f0-4264-bb47-e6e1b8b789f5)
     
 <hr>
