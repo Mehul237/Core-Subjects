@@ -117,6 +117,23 @@
 
 ![Screenshot 2024-07-10 015552](https://github.com/Mehul237/Core-Subjects/assets/117193057/2ab526ef-c6a9-4ee1-9437-8a745c99cb69)
 
+     Question-03: Left Join
+
+![Screenshot 2024-07-10 091803](https://github.com/Mehul237/Core-Subjects/assets/117193057/f65c15f7-d698-4cd7-a521-46124bf4cdf2)
+
+    Question-04: Right Join
+
+![Screenshot 2024-07-10 091910](https://github.com/Mehul237/Core-Subjects/assets/117193057/7f79816c-19c3-4990-a5d9-76f28505a3cb)
+
+     Question-05: Cross Join
+
+![Screenshot 2024-07-10 092004](https://github.com/Mehul237/Core-Subjects/assets/117193057/985fbbed-6d0b-48b4-9d12-503058494a06)
+
+     Question, Without Inner Join to give output other ways ???
+
+![Screenshot 2024-07-10 092110](https://github.com/Mehul237/Core-Subjects/assets/117193057/603eb020-8a16-4aa1-9acc-81730c66a505)
+
+<img width="960" alt="Screenshot 2024-07-10 092149" src="https://github.com/Mehul237/Core-Subjects/assets/117193057/fd243c39-248c-48fd-b091-88667952679f">
 
 <hr>
 <br>
