@@ -159,4 +159,50 @@
 <hr>
 <br>
 
-   
+    Q21: Find the COUNT from the specific COLUMN with specific NAME
+
+![Screenshot 2024-07-13 135720](https://github.com/user-attachments/assets/14061fef-23e4-4547-a87f-add5a619a29d)
+
+<hr>
+<br>
+
+    Q22: CONCAT, WHERE, BETWEEN -- Find the full names with specific salary range (>= and <=) 
+
+![Screenshot 2024-07-13 140058](https://github.com/user-attachments/assets/5298954d-ba17-4b51-8814-982627592d78)
+
+<hr>
+<br>
+
+    Q23: COUNT, GROUP BY, ORDER BY -- COUNT DESC, Two ways: 1st normal, 2nd using alias
+
+![Screenshot 2024-07-13 140505](https://github.com/user-attachments/assets/595d6cfc-a911-42eb-84c1-346fc51d772d)
+
+![Screenshot 2024-07-13 140613](https://github.com/user-attachments/assets/bf1fd79a-6610-4270-9025-b3d4b3b0d967)
+
+<hr>
+<br>
+
+    Q24: INNER JOIN
+
+![Screenshot 2024-07-13 141101](https://github.com/user-attachments/assets/e3e557b3-2f5d-4755-8953-08a2c871c46c)
+
+![Screenshot 2024-07-13 141208](https://github.com/user-attachments/assets/6a4f738e-c6cb-4353-afc5-5c877a915807)
+
+![Screenshot 2024-07-13 141225](https://github.com/user-attachments/assets/19c4e29c-8b80-4542-acd1-f062287433cd)
+
+![Screenshot 2024-07-13 141300](https://github.com/user-attachments/assets/ccb78036-504f-42d7-bfce-3f6da54fdef7)
+
+<hr>
+<br>
+
+    Q25: Same Title (>=1) and Different types in table_name
+
+<img width="960" alt="Screenshot 2024-07-13 141621" src="https://github.com/user-attachments/assets/ad94bafd-e7b4-4d13-beb8-2c393ee59cd0">
+
+![Screenshot 2024-07-13 141936](https://github.com/user-attachments/assets/2cd1d534-4f8e-46f9-a455-72e26efaaaef)
+
+![Screenshot 2024-07-13 141947](https://github.com/user-attachments/assets/9d66b2b0-efc4-4a7f-81bb-c09ab4fa4e78)
+
+![Screenshot 2024-07-13 142005](https://github.com/user-attachments/assets/fd030387-3e8a-4593-b1c5-c221df66afd0)
+
+<hr>
