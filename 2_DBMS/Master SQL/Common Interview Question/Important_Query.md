@@ -87,3 +87,76 @@
 ![Screenshot 2024-07-13 114128](https://github.com/user-attachments/assets/659d2cfd-5894-4aac-92dd-1668d4f0bbf0)
 
 <hr>
+<br>
+
+    Q11: Order by COLUMN_name in Ascending 
+
+![Screenshot 2024-07-13 131934](https://github.com/user-attachments/assets/51130561-d27b-4305-a377-a10365a63222)
+
+<hr>
+<br>
+
+    Q12: first_name ASENDING and department DESCENDING
+
+![Screenshot 2024-07-13 132003](https://github.com/user-attachments/assets/c7b9c2eb-d7e3-4c70-bb2c-c4ac417414c8)
+
+<hr>
+<br>
+
+    Q13: Where, IN
+
+![Screenshot 2024-07-13 132247](https://github.com/user-attachments/assets/b1ed7eaf-b42f-4376-acf7-98222058024a)
+
+<hr>
+<br>
+
+    Q14: Excluding table data then use NOT IN
+
+![Screenshot 2024-07-13 132355](https://github.com/user-attachments/assets/b7f65124-3ed4-4b8c-ab10-2d3c937bbd41)
+
+<hr>
+<br>
+
+    Q15: LIKE
+
+![Screenshot 2024-07-13 132545](https://github.com/user-attachments/assets/e2f6de60-5475-43b8-be51-fc42bfa42dfe)
+
+<hr>
+<br>
+
+    Q16: LIKE -- Print only whose first_name contains 'a'
+
+![Screenshot 2024-07-13 132709](https://github.com/user-attachments/assets/88c6c630-e7e2-4424-b5e3-a743022ceb23)
+
+<hr>
+<br>
+
+    Q17: Print only whose first_name ENDS with 'a'
+
+![Screenshot 2024-07-13 133009](https://github.com/user-attachments/assets/cf7ed7f4-e033-4b7a-a22f-5e8f6b8cba2d)
+
+<hr>
+<br>
+
+    Q18: Print only whose first_name ends with 'h' and contains six alphabets
+
+![Screenshot 2024-07-13 133257](https://github.com/user-attachments/assets/8c70495a-5ed4-4dce-82b0-cbfc3d5aa99f)
+
+<hr>
+<br>
+
+    Q19: Print only whose salary LIES b/w 100000 and 500000
+
+![Screenshot 2024-07-13 133457](https://github.com/user-attachments/assets/24d9d009-0a9e-43e8-8042-9b6e960c0092)
+
+<hr>
+<br>
+
+    Q20: Print only who have joined in specific month_year
+
+![Screenshot 2024-07-13 135156](https://github.com/user-attachments/assets/76e54e38-b382-4277-bef8-12620f8ad878)
+
+<hr>
+<br>
+
+   
